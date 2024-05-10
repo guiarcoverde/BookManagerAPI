@@ -1,4 +1,6 @@
-﻿[x] Deve ser possível criar um livro
-[] Deve ser possível visualizar todos os livros que foram criados
-[] Deve ser possível editar informações de um livro
-[] Deve ser possível excluir um livro
+ - [x] Possível criar um livro
+ - [x] Possível checar todos os livros
+ - [x] Possível checar um livro em específico
+ - [x] Possível editar um livro
+ - [x] Possível deletar um livro
+ - [x] Usar In-Memory Database pela primeira vez
